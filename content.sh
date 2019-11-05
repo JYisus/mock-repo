@@ -1,3 +1,3 @@
 echo "tnirc"
 echo "obndy"
-echo "jmaki"
+echo "kikor"
