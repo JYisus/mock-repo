@@ -1,2 +1,2 @@
 echo "tnirc"
-echo "aptmc"
+echo "sglcb"
