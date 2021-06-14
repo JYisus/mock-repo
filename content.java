@@ -1,5 +1,5 @@
-public class Clvrqc {
+public class Csrexs {
     public static void main() {
-        System.out.println("anhsk");
+        System.out.println("ubcoc");
     }
 }
