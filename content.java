@@ -1,5 +1,5 @@
-public class Csrexs {
+public class Cbmivd {
     public static void main() {
-        System.out.println("ubcoc");
+        System.out.println("jnxfe");
     }
 }
